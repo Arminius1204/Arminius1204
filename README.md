@@ -27,14 +27,14 @@
 ```yaml
 name: Akshat Raj
 role: CS Undergraduate (Honours) — Batch 2023–27
-university: CHRIST (Deemed to be University), Central Campus, Bengaluru
+University: CHRIST (Deemed to be University), Central Campus, Bengaluru
 focus_areas:
   - Network Simulation & Edge Computing
   - Frontend Engineering (React.js / Next.js)
   - Data Analytics & Business Intelligence
   - Agentic AI & Retrieval-Augmented Systems
 mindset: "Take an idea from a whiteboard to something people can actually use."
-currently: Front-End Developer Intern @ Gulaab Jamoon Experiences LLP
+Currently: Front-End Developer Intern @ Gulaab Jamoon Experiences LLP
 ```
 
 I'm a Computer Science (Honours) student who likes sitting at the intersection of **infrastructure and interface** — one week simulating how edge data centers cut cloud-gaming latency, the next shipping a React component to production. I care about work that's actually used: dashboards someone opens every morning, a UI that ships on time, a simulation that answers a real question.
